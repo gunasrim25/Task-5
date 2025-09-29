@@ -1,6 +1,6 @@
 # Task-5: Exploratory Data Analysis (EDA)
 
-# Titanic EDA - Sample Submission
+## Titanic EDA - Sample Submission
 This bundle contains a sample Exploratory Data Analysis (EDA) for the Titanic dataset.
 
 ## Files
